@@ -1,6 +1,7 @@
 <img  align="center" src="https://github.com/Splucheviy/Splucheviy/blob/main/img/user%20(2).gif?raw=true" alt="шапка профиля">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+and)](https://github.com/Splucheviy)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+developer+student)](https://github.com/Splucheviy)
 
 <h1 align="center">Привет, меня зовут <a href="https://github.com/Splucheviy" target="_blank">Иван</a> 
