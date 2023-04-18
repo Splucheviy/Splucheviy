@@ -1,4 +1,4 @@
-<img src="https://github.com/Splucheviy/Splucheviy/blob/main/img/user%20(2).gif?raw=true" text-align='center' alt="шапка профиля">
+<img  align="center" src="https://github.com/Splucheviy/Splucheviy/blob/main/img/user%20(2).gif?raw=true" alt="шапка профиля">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+and+Web+developer+student)](https://github.com/Splucheviy)
 
