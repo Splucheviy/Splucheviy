@@ -4,7 +4,7 @@
 
 <h1 align="center">Привет, меня зовут <a href="https://github.com/Splucheviy" target="_blank">Иван</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я backeng разработчик на Go</h3>
+<h3 align="center">Я backend разработчик на Go</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
